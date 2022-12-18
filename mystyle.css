@@ -1,0 +1,33 @@
+.page1{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    background-color: #62B6B7;
+    margin-top: 75px;
+    color: #181D31;
+
+}
+ul{
+    text-align: left;
+}
+body{
+    background-color: #439A97;
+    
+}
+.page2{
+    width: 80%;
+    margin: auto;
+    background-color: #62B6B7;
+    text-align: center;
+    color: #181D31;
+    margin-top: 75px;
+}
+.page3{
+    width: 80%;
+    margin: auto;
+    background-color: #62B6B7;
+    text-align: center;
+    color: #181D31;
+    margin-top: 75px;
+}
+
